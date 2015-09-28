@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html ng-app="InputnLabelExample">
+
+  <head>
+    <meta charset="utf-8" />
+    <title>AngularJS Input and Label Directive</title>
+    <script data-require="angular.js@1.2.x" src="bower_components/angular/angular.js" data-semver="1.2.28"></script>
+    <script src="bower_components/angular-inputnlabel/src/angular-inputnlabel.js"></script>
+    <script src="app.js"></script>
+    
+  </head>
+
+  <body ng-controller="MainCtrl">
+
+    <div contentEditable="true" ng-model="myinput">click here to input</div>
+    
+    <br>
+    Data in the ng-model
+    <p>{{myinput}}</p>
+  </body>
+
+</html>
+
