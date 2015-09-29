@@ -5,6 +5,9 @@ Description
 -----------
     This Simple directive will allow any HTML div tag to be able to act both as an input as well as a labelto display the value without the borders in a clean way
 
+Detailed documentation
+[Documentation] (http://clofus.com/viewarticles/109)
+
 
 Install
 -------
