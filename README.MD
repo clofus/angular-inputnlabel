@@ -17,4 +17,6 @@ Usage
 Simple as this
 `<div inputnlabel="true" ng-model="mymodel"></div>`
 
-
+Demo
+----
+[Plunker Demo] (http://plnkr.co/edit/OIxwvt3BTEoItrYVspow?p=preview) 
